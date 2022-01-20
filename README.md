@@ -1,4 +1,4 @@
 # logIn
 
-id = test
+id = test  
 password = 1234
