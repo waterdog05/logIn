@@ -2,7 +2,7 @@ body {
     background-image: url(starTrail.jpg);
     background-size: cover;
     background-position: center;
-    height: 800px;
+    height: 1000px;
 }
 
 .login-form {
